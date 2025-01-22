@@ -1,0 +1,11 @@
+CustomerID,Name,Age,Gender,City,Annual_Income,Purchase_Amount,Is_Active
+101,John Doe,28,Male,New York,50000,200,,Yes
+102,Jane Smith,34,Female,Los Angeles,,150,Active
+103,Bob Johnson,,Male,Chicago,30000,180,Yes
+104,,29,Female,Houston,40000,,Yes
+105,Linda Lee,27,Female,,70000,250,Yes
+106,Chris Martin,40,Male,New York,,300,No
+107,Patricia Garcia,,Female,Chicago,35000,210,No
+108,James Brown,31,,Seattle,45000,220,Yes
+109,,36,Female,Houston,38000,230,Yes
+110,Michael White,30,Male,Los Angeles,55000,270,No

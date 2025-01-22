@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "84816c171b40a4e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "28b81324ef38970a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df66780063b67e25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Improving Neural Networks/Drop-out.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drop-out"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0187b2af7f134e0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0fe647f89c5c31b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0744a6c708eb7101",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fb40a35398d3bbab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a7412cc10ed89dbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd6895465ba3a28b",
+    "type": "split",
+    "children": [
+      {
+        "id": "22b6bcefeba7b74a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08d7856724061648",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Neural Networks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Neural Networks"
+            }
+          },
+          {
+            "id": "cb0b4fefed432323",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Neural Networks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Neural Networks"
+            }
+          },
+          {
+            "id": "d4a90cc5857c1cfa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17768cc3f898b66a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Neural Networks.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Neural Networks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "df66780063b67e25",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Improving Neural Networks/Drop-out.md",
+    "Improving Neural Networks/Regularization.md",
+    "Cosas para sistemas operativos..md",
+    "Improving Neural Networks",
+    "Untitled.canvas",
+    "Neural Networks.md",
+    "Pasted image 20240920151333.png",
+    "Pasted image 20240920151013.png",
+    "Pasted image 20240920141521.png",
+    "Pasted image 20240920135826.png",
+    "Pasted image 20240920135053.png",
+    "Pasted image 20240920134129.png",
+    "Pasted image 20240920133702.png"
+  ]
+}
