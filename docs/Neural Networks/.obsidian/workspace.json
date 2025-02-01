@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "17def3649686ea63",
+    "type": "split",
+    "children": [
+      {
+        "id": "7582e6700dbf5585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "070ed5a60b87971a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheat Sheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cheat Sheet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b89a58dbab65f7d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1aa9e7ec699736de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f446c5c66acb227",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "12070cb997f8a87e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a8e17b4d97ac86ff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "25fd65af4e2ef37e",
+    "type": "split",
+    "children": [
+      {
+        "id": "906bd18c5ef4f7e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d7f2764f05678a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tensorflow Implementation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tensorflow Implementation"
+            }
+          },
+          {
+            "id": "3df45133a2ac1e31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tensorflow Implementation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tensorflow Implementation"
+            }
+          },
+          {
+            "id": "1eac57e8973b9de0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4f6b9c6e79413ab4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tensorflow Implementation.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tensorflow Implementation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "070ed5a60b87971a",
+  "lastOpenFiles": [
+    "NN implementation in Python/Forward propagation in a single layer.md",
+    "Tensorflow Implementation.md",
+    "Cheat Sheet.md",
+    "Debugging a learning algorithm.md",
+    "Pasted image 20250130104427.png",
+    "Pasted image 20250130103648.png",
+    "Pasted image 20250129165759.png",
+    "Pasted image 20250129161529.png",
+    "Pasted image 20250129160053.png",
+    "Applying machine learning",
+    "Neural Networks.md",
+    "Loss Functions Cheat Sheet.md",
+    "Pasted image 20250122122819.png",
+    "Pasted image 20250121220934.png",
+    "Pasted image 20250122115616.png",
+    "Pasted image 20250122111307.png",
+    "Pasted image 20250122102912.png",
+    "NN implementation in Python"
+  ]
+}

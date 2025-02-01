@@ -58,3 +58,11 @@ We use superscript notation to index between layers.
 ### Forward propagation
 
 Forward propagation is the process in a neural network where input data moves through the network's layers to produce an output.
+
+
+### Model Training Steps
+
+1) The first step is to specify how to compute output given input x and parameters w,b.
+2) Specify loss and cost function, the loss function measures the model performance.
+3) Minimize the cost function: Use an optimization algorithm like gradient descent.
+4) 
